@@ -31,4 +31,12 @@
 ```bash
 git clone https://github.com/SamirNexus/Devflio.git
 
+2. **Open the project:**
+
+- Open `index.html` in your preferred web browser.
+
+3. **Customize the template:**
+
+- Edit `index.html` to add your personal information.  
+- Modify `style.css` to change colors, fonts, or other styles.
 
