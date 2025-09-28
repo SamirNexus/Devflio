@@ -22,17 +22,15 @@
 
 ---
 
----
-📂 Project Structure
+## 📂 Project Structure
 
 Devflio/
- ┣ css/
- ┃ ┗ style.css
- ┣ images/
- ┣ js/
- ┣ webfonts/
- ┣ index.html
- ┗ README.md
+┣ images/
+┣ index.html
+┣ style.css
+┗ README.md
+
+---
 
 ## 📥 How to Use
 
