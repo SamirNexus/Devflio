@@ -23,6 +23,16 @@
 ---
 
 ---
+##📂 Project Structure
+
+Devflio/
+ ┣ css/
+ ┃ ┗ style.css
+ ┣ images/
+ ┣ js/
+ ┣ webfonts/
+ ┣ index.html
+ ┗ README.md
 
 ## 📥 How to Use
 
